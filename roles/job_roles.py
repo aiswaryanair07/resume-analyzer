@@ -1,0 +1,1 @@
+job_roles={"AI Engineer":["python","machine learning","deep learning","numpy","pandas"],"Cybersecurity specialist":["network security","ethical hacking", "risk assessment", "threat detection","python"],"Data Scientist":["Advanced sql","python","machine learning","statical analysis"]}
