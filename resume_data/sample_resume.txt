@@ -1,0 +1,21 @@
+Summary
+
+Name: Neha Verma
+
+Skills
+
+Python, Java, HTML, CSS, JavaScript, SQL, Machine Learning, Data Analysis, Communication, Leadership
+
+Experience
+
+Intern – Data Analyst
+ABC Technologies
+
+Cleaned and analyzed datasets using Python
+
+Created reports and dashboards
+
+Education
+
+B.Tech in Computer Science
+2022 – 2026
